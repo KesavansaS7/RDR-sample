@@ -1,0 +1,28 @@
+# Node / React
+node_modules/
+dist/
+.eslintcache
+frontend/node_modules/
+frontend/dist/
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+db.sqlite3
+local_settings.py
+.env
+backend/__pycache__/
+api/__pycache__/
+api/migrations/__pycache__/
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# System Files
+.DS_Store
+Thumbs.db
+.vscode/
